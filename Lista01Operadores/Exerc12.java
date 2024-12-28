@@ -6,6 +6,9 @@ import java.util.Scanner;
 // 11% Imposto de Renda, calcule o total de desconto e o salário líquido. O usuário deve entrar com o valor da hora (“Entre com o valor/hora”) e
 // a quantidade de horas trabalhadas no mês (“Entre com a quantidade de horas trabalhadas no mês:”), utilize a questão 8 como referência. Imprima
 // no final os seguintes itens: “Salário bruto: “, “INSS: “, “Sindicato: “, “IR: “,  “Total descontos: ” e “Salário líquido: “
+
+// EXERCÍCIO AINDA NÃO COMPLETO
+
 public class Exerc12 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
